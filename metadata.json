@@ -1,0 +1,5 @@
+{
+  "name": "Fetch Breed-Specific Risk Calculator",
+  "description": "An interactive tool to calculate breed-specific health risks and vet costs.",
+  "requestFramePermissions": []
+}
